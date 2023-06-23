@@ -133,6 +133,9 @@ textarea {
   font-size: 14px;
   border: 1px solid #ccc;
   border-radius: 5px;
+  resize: vertical;
+  outline: none;
+  box-shadow: 0 0 2px var(--primary-color);
 }
 
 textarea {
